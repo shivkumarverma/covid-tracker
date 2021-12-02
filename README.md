@@ -1,20 +1,28 @@
-covid-trackerProject
 
-Description
-convert the temperature from °Celcius to °Fahrenheit and vice versa.
+## Project
+  
+  Covid Tracker
 
-version
-1.0.0
+## Description
+ 
+ covid tracker app trackes all the covid 19 confirmed , recovered and death cases all over the world.
 
-Technologies
-Html , css , Javascript.
+## version 
 
-Website Link
+ 1.0.0
+
+## Technologies 
+
+ Html , css , Javascript, Angular js
+
+## Website Link
+
  https://shivkumarverma.github.io/covid-tracker/
+ 
+## screenshots
 
-screenshots
 
+## Countributer
 
+- Shiv Kumar Verma
 
-Countributer
-Shiv Kumar Verma
