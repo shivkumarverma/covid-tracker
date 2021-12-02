@@ -21,6 +21,10 @@
  
 ## screenshots
 
+<img src = "img/Screenshot (305).png">
+<br>
+<img src = "img/Screenshot (306).png">
+
 
 ## Countributer
 
